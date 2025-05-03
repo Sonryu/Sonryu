@@ -33,6 +33,8 @@ Passionate about robotics, programming and future technologies.
 
 ![Google Colab](https://img.shields.io/badge/-Colab-8e44ad?style=flat&logo=googlecolab&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-27ae60?style=flat&logo=sqlite&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-purple?logo=jupyter&logoColor=white)
+
 
 #### 🎨 Multimídia & Design:
 
