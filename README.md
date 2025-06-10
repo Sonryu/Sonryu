@@ -34,6 +34,9 @@ Passionate about robotics, programming and future technologies.
 ![Google Colab](https://img.shields.io/badge/-Colab-8e44ad?style=flat&logo=googlecolab&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-27ae60?style=flat&logo=sqlite&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-purple?logo=jupyter&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-4c2889?style=flat&logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35bf5c?style=flat&logo=manjaro&logoColor=white)
+
 
 
 #### 🎨 Multimídia & Design:
@@ -43,11 +46,11 @@ Passionate about robotics, programming and future technologies.
 
 **Socials:**
 <div> 
-  <a href="https://www.youtube.com/@iQ200SonRyu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/watson.vilar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/Sonryu1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto: watsonvilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/watsonvilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@iQ200SonRyu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/watson.vilar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/Sonryu1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto: watsonvilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/watsonvilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ⚙️ *"Building machines that think, move and fly."*
