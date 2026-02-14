@@ -21,8 +21,8 @@ Passionate about robotics, programming and future technologies.
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-purple?logo=jupyter&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-4c2889?style=flat&logo=arch-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35bf5c?style=flat&logo=manjaro&logoColor=white)
-
-
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 
 #### 🎨 Multimídia & Design:
 
