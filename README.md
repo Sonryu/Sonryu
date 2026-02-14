@@ -2,21 +2,6 @@
 👨‍💻 Mechatronics Engineering student at [UFRN](https://ufrn.br) from Brazil.
 Passionate about robotics, programming and future technologies.
 
-<div align="center">
-
-  <a href="https://github.com/Sonryu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonryu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-   <a href="https://github.com/Sonryu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&layout=compact&langs_count=6&theme=radical"/>
-  </a>
-
- 
-</div>
-
-
-
-
 #### 🔧 Linguagens & Ferramentas:
 
 ![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat&logo=python&logoColor=white)
@@ -52,5 +37,3 @@ Passionate about robotics, programming and future technologies.
   <a href = "mailto: watsonvilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/watsonvilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-⚙️ *"Building machines that think, move and fly."*
