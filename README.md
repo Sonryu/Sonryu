@@ -1,6 +1,5 @@
 # Ramon Watson (Sonryu) Vilar
-👨‍💻 Mechatronics Engineering student at [UFRN](https://ufrn.br) from Brazil.
-Passionate about robotics, low-level programming, embedded systems, and future technologies.
+👨‍💻 Mechatronics Engineering Student | C/C++ Developer | Low-level enthusiast | Embedded Systems & Linux.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonryu&show_icons=true&theme=radical&rank_icon=percentile)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&layout=donut&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
