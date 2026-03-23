@@ -1,8 +1,10 @@
 # Ramon Watson (Sonryu) Vilar
 👨‍💻 Mechatronics Engineering Student @UFRN | C/C++ Developer | Low-level enthusiast | RTOS | Embedded Systems & Linux.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonryu&show_icons=true&theme=radical&rank_icon=percentile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&layout=donut&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Sonryu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonryu&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&theme=radical&layout=compact" />
+</a>
 
 #### 🔧 Languages & Tools:
 
