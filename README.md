@@ -2,8 +2,8 @@
 👨‍💻 Mechatronics Engineering Student @UFRN | C/C++ Developer | Low-level enthusiast | RTOS | Embedded Systems & Linux.
 
 <a href="https://github.com/Sonryu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonryu&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonryu&theme=radical&show_icons=true&rank_icon=percentile" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&theme=radical&layout=normal" />
 </a>
 
 #### 🔧 Languages & Tools:
