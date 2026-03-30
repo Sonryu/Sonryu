@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+
 # Ramon Watson (Sonryu) Vilar
 👨‍💻 Mechatronics Engineering Student @UFRN | C/C++ Developer | Low-level enthusiast | RTOS | Embedded Systems & Linux.
 
@@ -44,3 +46,4 @@
   <a href = "mailto: watsonvilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/watsonvilar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
