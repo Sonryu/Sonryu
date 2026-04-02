@@ -3,11 +3,8 @@
 # Ramon Watson (Sonryu) Vilar
 👨‍💻 Mechatronics Engineering Student @UFRN | C/C++ Developer | Low-level enthusiast | RTOS | Embedded Systems & Linux.
 
-<a href="https://github.com/Sonryu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonryu&theme=radical&show_icons=true&rank_icon=percentile" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonryu&hide=javascript,html&theme=radical&layout=normal" />
-</a>
-
+![GitHub Stats](https://ghstats.dev/api/card?username=Sonryu&theme=radical)
+![Top Languages](https://ghstats.dev/api/langs?username=Sonryu&layout=bar&theme=radical&hide=javascript)
 #### 🔧 Languages & Tools:
 
 ![C++](https://img.shields.io/badge/-C++-9b59b6?style=flat&logo=c%2B%2B&logoColor=white)
