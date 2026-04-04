@@ -5,6 +5,7 @@
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=Sonryu&theme=midnight)
 ![Top Languages](https://ghstats.dev/api/langs?username=Sonryu&layout=bar&theme=midnight&hide=javascript,typescript)
+![Activity Sparkline](https://ghstats.dev/api/sparkline?username=Sonryu&days=30&theme=midnight&width=420)
 #### 🔧 Languages & Tools:
 
 ![C++](https://img.shields.io/badge/-C++-9b59b6?style=flat&logo=c%2B%2B&logoColor=white)
